@@ -1,2 +1,2 @@
 # BayAreaBikeShare
-spark data analysis and Plotly visualization
+Data Analysis with Spark and Visualization with Plotly
